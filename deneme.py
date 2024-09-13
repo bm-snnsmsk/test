@@ -1,0 +1,1 @@
+print("ortak çalışma test ediliyor...")
